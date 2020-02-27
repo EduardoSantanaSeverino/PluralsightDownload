@@ -1,0 +1,457 @@
+{
+    "course_title": "Developing Faster with the Vue CLI",
+    "vids": {
+        "Course Overview": [
+            {
+                "count": 0,
+                "name": "Course Overview",
+                "module_name": "Course Overview",
+                "duration": "1m 24s",
+                "vid": "https://vid21.pluralsight.com/clips/resolution/b1c9eecc-b760-4306-ac52-34f1f93e3369/current/mp4/1280x720.mp4?zcmagRJGYCV6f3gW_nb2io1kaYBpWL5kc5VgJZtXOJI5cr_hriiWR8VPNyw9NdoNz9ZX6UTaCGg78XQ-HWHTaEqrFdwNSYWKkYB1dELq77_VXjWYGD-q9dxgXkpBN6D68FGp9yHtwSLdcSjO5xbHofgdv8_90hQHF25mgmkfbirJK5uBzmDN6PaG804D"
+            }
+        ],
+        "Getting Started with the Vue CLI": [
+            {
+                "count": 1,
+                "name": "Introducing the Vue CLI",
+                "module_name": "Getting Started with the Vue CLI",
+                "duration": "0m 43s",
+                "vid": "https://vid21.pluralsight.com/clips/resolution/37344fe7-32f9-49c0-93f1-70c35bed839d/current/mp4/1280x720.mp4?VMxxxncR1WaQj7ioX7MH7XBD9qRBQPiMp9OX95UkTkN3u2T2SARHHUf9tExsQNqsy0esJr9oUM2UF840sqgu7dwFBNtRvUi70WDR_JXFzs25C0q_4ipdjqYWo_CmiiYYAtVvIYNeF-um-LLPxbljffnI9lcXALlrNqrlfEbSgjPvyhOALOeFV8ysmIPv"
+            },
+            {
+                "count": 2,
+                "name": "Creating a Vue App with the Zero Configuration Option",
+                "module_name": "Getting Started with the Vue CLI",
+                "duration": "2m 19s",
+                "vid": "https://vid21.pluralsight.com/clips/resolution/14716e3b-ebb1-4680-b67e-71828acfd1f9/current/mp4/1280x720.mp4?EtaOvGh-RiFKpgZZkc00dZTzi1jVh5QgfVpNrgt2SiVgeXWDvSNuR7g5nZvsa46amIpvuO5Zv42AxLa5xmuTK_iBcvdg4HQQnF9TaMHSeB49w02GkSXsAxwmkM9g7v1llcE1Fc8t3rCkusj-if2p0vlmaivhY0eZkvze5qfn6LnCY6qaOdvuXkQ4zr2K"
+            },
+            {
+                "count": 3,
+                "name": "Why You Should Use the Vue CLI",
+                "module_name": "Getting Started with the Vue CLI",
+                "duration": "1m 57s",
+                "vid": "https://vid21.pluralsight.com/clips/resolution/22ec8528-ce54-46c8-94ed-1233034cde07/current/mp4/1280x720.mp4?bih10XL_LD-8EOuJEw6ITRFfEDxIpscvHIdyfYfHLCY00oiYtM45iab8D94LD5gT4vw2aJXK2o0yst6ZHQmszWa9pmoPx9_M-el7dVM7Fv_cS9TbRbXH3b-QTtgte42AXRL8THp3SMuxjY55YrwqmlqiMLO6tvkbPfkIH64kkt4noiW_R0lSq6BpC9z_"
+            },
+            {
+                "count": 4,
+                "name": "A Sneak Peek at the Vue CLI",
+                "module_name": "Getting Started with the Vue CLI",
+                "duration": "2m 26s",
+                "vid": "https://vid21.pluralsight.com/clips/resolution/3b5763a7-e81f-4006-abaa-00238b49567f/current/mp4/1280x720.mp4?9fjfkQKMyDNgtw-oRe3CGhCBPyBrJ3KY5vtef5yDH8pp1SFCH9HzxDDMZFCA2usKspVOb0Q9FPLxwcHGJ2w35ShUVLO-zDkYDEemh-cPzyKh090XCfScMAg8Ei-rJKUyj6-YV8aIBLboPomaDog4JKIaL4A7C2Jp2nSq-9r1EYuBuzPKIIMr0SWqDTSH"
+            },
+            {
+                "count": 5,
+                "name": "Test Drive the Vue CLI",
+                "module_name": "Getting Started with the Vue CLI",
+                "duration": "3m 24s",
+                "vid": "https://vid5.pluralsight.com/expiretime=1554320053/98da86223cfec544e4bcc6aec4e0aa11/clips/resolution/ca5a2d19-73fa-4243-9596-d2760bf73e82/current/mp4/1280x720.mp4"
+            },
+            {
+                "count": 6,
+                "name": "Test Drive the Vue CLI UI",
+                "module_name": "Getting Started with the Vue CLI",
+                "duration": "2m 50s",
+                "vid": "https://vid5.pluralsight.com/expiretime=1554320059/8153808ea3e5b4efa5daf979f2057f4f/clips/resolution/d1187fd6-24df-4e30-838a-95ea600c05dc/current/mp4/1280x720.mp4"
+            },
+            {
+                "count": 7,
+                "name": "Summary and Next Steps",
+                "module_name": "Getting Started with the Vue CLI",
+                "duration": "1m 4s",
+                "vid": "https://vid5.pluralsight.com/expiretime=1554320065/0047e3de65ad8d6434fbcfc31dd46e4a/clips/resolution/b1f8c85d-7809-46fa-ae1c-65a02af954e0/current/mp4/1280x720.mp4"
+            }
+        ],
+        "Setting up the Vue CLI": [
+            {
+                "count": 8,
+                "name": "Setting up the Vue CLI",
+                "module_name": "Setting up the Vue CLI",
+                "duration": "0m 43s",
+                "vid": "https://vid21.pluralsight.com/clips/resolution/4a800134-7088-404a-879e-f40b6ca76ba7/current/mp4/1280x720.mp4?kgZ-xc_SLp7n3tYXkXDktq3op3QnQSzL0fZQYvArZ5COYelBdL-pk2jxfRODPlZMwZCDMMJRafmNA2Vp4VzbHWoUYVDOW2vNeY9az8FG_Yyu1bmInj2TG0XN0Abn0TWXNUm8LyM4Ff9hRZn2vmgwuLBQ82ytrluCIiDQD0ee78NDM1x4FHppxJTR4zWb"
+            },
+            {
+                "count": 9,
+                "name": "Installing the Vue CLI",
+                "module_name": "Setting up the Vue CLI",
+                "duration": "2m 2s",
+                "vid": "https://vid21.pluralsight.com/clips/resolution/43d022e5-bb82-43c9-aad9-67fecd6a44dc/current/mp4/1280x720.mp4?Dt_tILJFbXshJVwKaYmpuRLxo_B8ZDQUCQu-aLZFU7ODuaFusJsxfaNkxzfdukwXmTEHpGqrxbbNRJ9GvW0kpkUDI57jLPbbbYz1bdWptPmW2jxzR6kSH4FZrLAKCZGo7UCFK1o98eIVznODwZNk6er5zTaNS4-V1CZKGuXq7UVLi1-BLf1WfFMXY7Wh"
+            },
+            {
+                "count": 10,
+                "name": "Install and Verify",
+                "module_name": "Setting up the Vue CLI",
+                "duration": "1m 55s",
+                "vid": "https://vid21.pluralsight.com/clips/resolution/b545f58c-55cf-4cf6-9b31-61218175bc93/current/mp4/1280x720.mp4?bU3ajRnq0jIzvUQODBimnkMaRgItD41JPg2mcD1uttQfkYtkNi6L0cUUw0s2W2_HWNCgoBFQt0m5LBFfk3qDJJhbwxM6jQoP2BJ-alpTSXJKXYNK2l3sIUgeJVLQ6yuqwbWvh4kGtTB2aD1rxBROTrHwtA4z8OZqSngl0lD0aqwd0ICzP8QpYmyiznbO"
+            },
+            {
+                "count": 11,
+                "name": "Creating Apps with the Vue CLI",
+                "module_name": "Setting up the Vue CLI",
+                "duration": "3m 11s",
+                "vid": "https://vid5.pluralsight.com/expiretime=1554320089/e28835ff0058591ae3cf6fbd441e1e5d/clips/resolution/9bd8dedd-080c-471e-8602-6645e22148da/current/mp4/1280x720.mp4"
+            },
+            {
+                "count": 12,
+                "name": "Summary and Next Steps",
+                "module_name": "Setting up the Vue CLI",
+                "duration": "0m 40s",
+                "vid": "https://vid5.pluralsight.com/expiretime=1554320095/91fcaaa7f82c18ab4fcfafbe47a52b8c/clips/resolution/3e1fac07-45cb-4ac1-bf14-1078d1d3c02b/current/mp4/1280x720.mp4"
+            }
+        ],
+        "Mastering Essential Vue Tools": [
+            {
+                "count": 13,
+                "name": "Using Great Tooling for Vue",
+                "module_name": "Mastering Essential Vue Tools",
+                "duration": "1m 2s",
+                "vid": "https://vid5.pluralsight.com/expiretime=1554320101/4aaa1847323cfa02422a442ce2f2a3ca/clips/resolution/73bafed8-540f-409e-8c85-d0ae4bc3f947/current/mp4/1280x720.mp4"
+            },
+            {
+                "count": 14,
+                "name": "Vue CLI Overview",
+                "module_name": "Mastering Essential Vue Tools",
+                "duration": "3m 8s",
+                "vid": "https://vid21.pluralsight.com/clips/resolution/5ce23d4b-6fc3-459e-8959-a08bd65fe1cf/current/mp4/1280x720.mp4?FeEFrDbP7GYMtUb9qc8uCSq_pXZnKXfNNWVOM7Zzr4YBOKKAZfxFJ4xDeEm7QJ8REZedf5k_N4rIGvDNyG2AIG4stIEe-3Y3MXkIZdZAsjJdqz2smuTMsY1erAmj4eikFE9gQ3T2trYK1T3nZTF5bmNCg7SFjZRi8_eqomY-7nzpW8aAvhFV65S4v0V2"
+            },
+            {
+                "count": 15,
+                "name": "Navigating the Vue Documentation",
+                "module_name": "Mastering Essential Vue Tools",
+                "duration": "2m 57s",
+                "vid": "https://vid21.pluralsight.com/clips/resolution/05e53679-ceda-479b-9b3b-a35791c085a2/current/mp4/1280x720.mp4?jeKX7arkWTJk3zZ1nyxT8C_2jCHzvhlJuUdeUvpsYkeTYju1ggRyWDPoN6Eu5L7Pw7aDXcEZNLPx9pB3cVp8LBBDswg0JMzYchyG9V3KEAoWGWMPTsJ0UXbE29AXqxXYHb6FB5ITKjVkCyziy6dK7d44mOj9nCC_8G8mf8h6e6HzN6pdwrrt1q_KNwgx"
+            },
+            {
+                "count": 16,
+                "name": "Getting Familiar with the Vue Developer Tooling",
+                "module_name": "Mastering Essential Vue Tools",
+                "duration": "4m 22s",
+                "vid": "https://vid5.pluralsight.com/expiretime=1554320117/21962568f729b05336a94e95869daa90/clips/resolution/5274529f-4eea-4dcc-80de-fb2568d108f6/current/mp4/1280x720.mp4"
+            },
+            {
+                "count": 17,
+                "name": "Debugging Vue in the Browser",
+                "module_name": "Mastering Essential Vue Tools",
+                "duration": "2m 52s",
+                "vid": "https://vid21.pluralsight.com/clips/resolution/90b5f728-11d8-4d82-82fb-825285c62e8b/current/mp4/1280x720.mp4?PaFJ1Osi98rhaqH4uVxA8IfU3PhxcGj0Ib6BeZRyrF3q1_85CdcEv6HN7z0u-QjQoN6SJVHSjZIa1MRVqDndRK_2ygsn1kp_3CUJKZbNHjHqCqkJ2OzocuzMrYFm-obSathZnMueaTRSXrWLlzgxHI4FSYVUSLhIxTtM0JMmBDwiP6Gj-rlXMAmlk9Vn"
+            },
+            {
+                "count": 18,
+                "name": "Developing with Vue in Visual Studio Code",
+                "module_name": "Mastering Essential Vue Tools",
+                "duration": "4m 19s",
+                "vid": "https://vid21.pluralsight.com/clips/resolution/9f449eeb-5ab8-4435-996b-8ccd095bc9e1/current/mp4/1280x720.mp4?5Ahjvfv3-s4YwAZeDPa6MlgMyXEAoKL-4-qZDRHW1cVC2JofgTt2tsPGhJ9EfzQsGbCFtqvofouqk_A8ptooB5gkwt7_Jbkdpn8uyUkyJwkP82SnkHa_zNGl4MWVYtOVlFOhwNZerxvMnNHWZWn-65aW4UftPkZHCOga2gnSUlFQM8v1RrmJ9h2Nk_cB"
+            },
+            {
+                "count": 19,
+                "name": "Debugging Vue in Visual Studio Code ",
+                "module_name": "Mastering Essential Vue Tools",
+                "duration": "4m 27s",
+                "vid": "https://vid5.pluralsight.com/expiretime=1554320132/a4349c19ba28c2ad8570acb059745f1f/clips/resolution/c7073ad8-2901-468e-ab54-998dfb67e788/current/mp4/1280x720.mp4"
+            },
+            {
+                "count": 20,
+                "name": "Reviewing the Vue Tooling",
+                "module_name": "Mastering Essential Vue Tools",
+                "duration": "1m",
+                "vid": "https://vid5.pluralsight.com/expiretime=1554320137/999fb601ccf30ded0311911aec1bcca1/clips/resolution/2739f4b8-d90a-438e-8e87-3c9452cd8e9d/current/mp4/1280x720.mp4"
+            }
+        ],
+        "Creating a Vue Application": [
+            {
+                "count": 21,
+                "name": "Application Creation Concepts ",
+                "module_name": "Creating a Vue Application",
+                "duration": "0m 56s",
+                "vid": "https://vid21.pluralsight.com/clips/resolution/fe38f91c-3e00-4587-bc11-4f90a60ee0a6/current/mp4/1280x720.mp4?hZ_DwNBKuzLJ6MxXUbuoAemlaeCKCQ9olZe0v7-TQJtcywEgg-Ws_S_o7qoSiJo-HiHZ8zNRfetVmm6QzkAZdl180CX1zKED17-zNcIHFHeFqso8rneP2IGEBrs_Ph9MPCxm7fd5RBO5j3IeZyEZZuHD4PPUyladrYP0dvnmporv66pedhRj2XemX4Uf"
+            },
+            {
+                "count": 22,
+                "name": "Learning the Application Creation Options",
+                "module_name": "Creating a Vue Application",
+                "duration": "3m 41s",
+                "vid": "https://vid5.pluralsight.com/expiretime=1554320147/b73b05725db30587815c5a3d6a0831be/clips/resolution/30c8f64f-1330-4321-9405-b84a2bdca492/current/mp4/1280x720.mp4"
+            },
+            {
+                "count": 23,
+                "name": "Creating a Default, Bare App with Yarn",
+                "module_name": "Creating a Vue Application",
+                "duration": "2m 49s",
+                "vid": "https://vid5.pluralsight.com/expiretime=1554320152/528ee24a3ec4230161514ef661d9bfa6/clips/resolution/6daf5e9f-8458-435d-8e36-f3db43696af4/current/mp4/1280x720.mp4"
+            },
+            {
+                "count": 24,
+                "name": "Differences in the Vue CLI Creation Prompts",
+                "module_name": "Creating a Vue Application",
+                "duration": "0m 46s",
+                "vid": "https://vid21.pluralsight.com/clips/resolution/74a6fcc1-4816-493f-9cd3-66b963e2adf9/current/mp4/1280x720.mp4?e6Z-IchAgYK0d2TJqHKIEH7ArZOBFr9_ECuIHFEkKz5m_egLOc2-y8mIKkrly86d1Nvt49wAhFbCDxAIFKZ0FHX5ilUXj6IRvOcQ0olclhK6N4uou2xj4A2Md7UricrzruqUUYXDjvsJNQ7GkGENJXs-Qm84188ly46LYJHNjfH-a6hk_7AYcRlNLWub"
+            },
+            {
+                "count": 25,
+                "name": "Exploring the Application Creation Prompts",
+                "module_name": "Creating a Vue Application",
+                "duration": "4m 21s",
+                "vid": "https://vid21.pluralsight.com/clips/resolution/cc8ef1b4-3f0f-4903-9826-5ab0b7c7bec0/current/mp4/1280x720.mp4?ENFclXU-E4xMRC2zAdHaWHqm4cPEtk9kxxB-1o1XstC4sW8FX5p6PXFaxZt5jI3QjrRg-icqxf6ZURd3TpLEt7KWAq56ScpooNKmkGNEyN_aJSuvb74hwcP2iIZDiMS9HBWGMH0hzzpCwpbKs6qk3by1PUfYsK8iHJMQ_GyoyOlPNKJ2dkTiuxX0Svl3"
+            },
+            {
+                "count": 26,
+                "name": "Understanding the Vue CLI Presets",
+                "module_name": "Creating a Vue Application",
+                "duration": "2m 14s",
+                "vid": "https://vid21.pluralsight.com/clips/resolution/616b2cc4-d550-46ac-b1db-5f0ac40fc1d6/current/mp4/1280x720.mp4?E-252K9WrVj5U0BSv4l5DRIrat1W7d6kA30UmRRPZRs6PrtR8rLRMPnZGXNdj9glGWE_Q37DI4BwROSuiobk5qhqAVlcTqBuZVH_383HWpnLkEMbVVMG9bbYyK7B5sv5hZmgZlioyrLPfAhfQCYxdhto3CWJlbpK3AEYp6JM0_QMMqeEwUtRMHhTd5I2"
+            },
+            {
+                "count": 27,
+                "name": "Creating a Preset",
+                "module_name": "Creating a Vue Application",
+                "duration": "2m 58s",
+                "vid": "https://vid21.pluralsight.com/clips/resolution/f0dbb024-dd8d-4913-b08e-f832fa7d1ece/current/mp4/1280x720.mp4?B5rQmlPnLVEo2m5IpDDM4Ga6tnBZaS3EqBT1Dqn0icJqjyQHMLhO8f-cTHDt8kfy0LxZdUXP6bwaCrv53sU3RidvPqFwUCE9tzGYZGm3fBdvjHUZ8r_VeF_i_nQ6QSjtrJxrT9oYXbFuH7E9o-bgGGhlDWH8V2RMDEzSILbhp9qycUeVJMnjGsiK7rg3"
+            },
+            {
+                "count": 28,
+                "name": "Creating an App from a Preset",
+                "module_name": "Creating a Vue Application",
+                "duration": "1m 41s",
+                "vid": "https://vid5.pluralsight.com/expiretime=1554320177/798fb41150de5851eecf58c693b87a1b/clips/resolution/9d92db2d-4c50-48de-b6c9-a08db7a5b739/current/mp4/1280x720.mp4"
+            },
+            {
+                "count": 29,
+                "name": "Sharing and Using Remote Presets",
+                "module_name": "Creating a Vue Application",
+                "duration": "2m 22s",
+                "vid": "https://vid21.pluralsight.com/clips/resolution/4c773aef-ad7e-4d9a-89ee-75136284367d/current/mp4/1280x720.mp4?rSSdaVR_slLKmtU4WX2dNmre6D_1VExWDsvzkTXJegjNIcthEHUzBgUgO_ZThUd4KQoJtRqdNY3dRPoH-blGwDilmzScRApH0Gnj8qfolEeZctqSfnNS6urFMT0HzLjIoPHBZoT47EiwL4wDZyDGBMdTOkhgynPVqtUxNMRH-dJSNrUtVhNSFr-nJe4X"
+            },
+            {
+                "count": 30,
+                "name": "App Creation Options and What's Next ",
+                "module_name": "Creating a Vue Application",
+                "duration": "0m 40s",
+                "vid": "https://vid21.pluralsight.com/clips/resolution/96db677f-61c9-45c9-b8dd-cb0e2dfd5c70/current/mp4/1280x720.mp4?tK7DWkKgqoLhdDQIrsv_j4oaHzEGkR60sVeprw87tPFwnAuBG2ZftGKoLA2B_SFxTXt3gHftJrtZk2S8VazSt7pGosg4f_ghpWIlQYA_xbEPR_WBtDPLmYx5rUpqErLQMAXIPsawSAHMwtqrV4zRz09yJN4nu_EIjsquLzwBDKAUaELqYPqjUDuEakNF"
+            }
+        ],
+        "Building and Serving Vue": [
+            {
+                "count": 31,
+                "name": "Overview of the Building and Serving",
+                "module_name": "Building and Serving Vue",
+                "duration": "0m 51s",
+                "vid": "https://vid21.pluralsight.com/clips/resolution/0bf1eb6d-9491-476d-9333-daa5cdc4ca0b/current/mp4/1280x720.mp4?fDYtRd59iXkhWNstkYNCfga21qKwu0HTIHnqwrHWKH_luYvz8cG63LW-L7rnIXp6sp_4IDxsXynik4VFXPk4e9Nn6667XaTOwg-HWS70NK7Mby47bYdNa6Vs87tcd1sAN6QLzLIWxHLXV_SuWJIu9p3Ll_nB-Oa90kd1rtTSOn1XTwFb8g7jtfzQUNtL"
+            },
+            {
+                "count": 32,
+                "name": "Exploring the Vue CLI Service",
+                "module_name": "Building and Serving Vue",
+                "duration": "2m 12s",
+                "vid": "https://vid21.pluralsight.com/clips/resolution/11793e4a-5655-4c83-98c9-8b7d4934cdca/current/mp4/1280x720.mp4?BXkiY8BxFdhlrdNxcz375VkGqU_pSgsVquKSEB2TdhfRTLDAIaEpEmtfRapPVBD196K81PWGJWfcCisymNuROkpiwGRKOJKWLnCdKkFIhRAm2ZUcN9bKnOP3GsxSzC4IlELZE4Q5jIN3b225iGPE9H5WGI1cgS2Vu15pak2BhaJZRe_QqzGsIaxRT1jG"
+            },
+            {
+                "count": 33,
+                "name": "Learning How to Serve Vue",
+                "module_name": "Building and Serving Vue",
+                "duration": "3m 31s",
+                "vid": "https://vid5.pluralsight.com/expiretime=1554320202/7a1f477376b7297d09782b425d53e1cf/clips/resolution/3be5302a-4428-4895-b172-a6542beca3a2/current/mp4/1280x720.mp4"
+            },
+            {
+                "count": 34,
+                "name": "Serving with the Vue UI",
+                "module_name": "Building and Serving Vue",
+                "duration": "1m 47s",
+                "vid": "https://vid5.pluralsight.com/expiretime=1554320207/48c405dd95e8367c5dc84297554290db/clips/resolution/0f2c9a7f-0780-4730-9e26-60e71ef5d2ce/current/mp4/1280x720.mp4"
+            },
+            {
+                "count": 35,
+                "name": "Understanding the Serving Options",
+                "module_name": "Building and Serving Vue",
+                "duration": "1m 30s",
+                "vid": "https://vid21.pluralsight.com/clips/resolution/61c3d409-7151-4e13-8e59-aef8a7c0bb8f/current/mp4/1280x720.mp4?NJfMMkOVNIx6PSgAmZc3d3ShFqt2RRYQhWbRqBxMod0X0Kgg2ahxBAWKI2ScI8pOLN7-OwKzE7vquzyMvtd_J4qP6tX1kZAwTNb_3Kiy-hu03azVpmSZ55gNQcis4F8ezJNJBa-gPpj0_bd5NUBKQK8gXcrpHKES0MMeqr69DZ-IDrAwhWfYUvVtf3ek"
+            },
+            {
+                "count": 36,
+                "name": "Build Targets and Options",
+                "module_name": "Building and Serving Vue",
+                "duration": "2m 25s",
+                "vid": "https://vid21.pluralsight.com/clips/resolution/de6075e4-c571-4f96-804f-ea94d74d748a/current/mp4/1280x720.mp4?EcDKvuppW4vPrKh8GGvvkUx-zNzBb6TLSoE3bLa8lIFb1zjt0xf2SiZqi64P8DlBK_yZVXPUwSQhoWRENIjhxg5-ihKI93o6kesiIQZtstfV1KGu3wKKKoUKzTLvKLtHli7NV4cWw_fBllxO3Jof4hfmkBdaCnYeqcAjvKpRs3WWuYfuq6hb-g9SM5VP"
+            },
+            {
+                "count": 37,
+                "name": "Building an App",
+                "module_name": "Building and Serving Vue",
+                "duration": "4m 52s",
+                "vid": "https://vid5.pluralsight.com/expiretime=1554320222/ca09cc90f88fef28bcbc16c2fb40c73c/clips/resolution/67b126a7-b9a5-4e35-bc8c-9e7ce5acf2d0/current/mp4/1280x720.mp4"
+            },
+            {
+                "count": 38,
+                "name": "Building a Library",
+                "module_name": "Building and Serving Vue",
+                "duration": "7m 22s",
+                "vid": "https://vid5.pluralsight.com/expiretime=1554320227/3a216e21947278ba0c2ee658062a5535/clips/resolution/a989aff5-19a0-4407-9f2c-4ac853ccec9a/current/mp4/1280x720.mp4"
+            },
+            {
+                "count": 39,
+                "name": "Building a Web Component",
+                "module_name": "Building and Serving Vue",
+                "duration": "2m 13s",
+                "vid": "https://vid21.pluralsight.com/clips/resolution/dfe81f2a-64ad-44fa-a8d6-1ca6043b2f6f/current/mp4/1280x720.mp4?aCqUUOTlmMq27RxsvEfcZM-XpX-ZBivuLQIraaWo-YxGiuW5P9ZxKCd_3sAnB8ybdxh2Qe7lTOjgHk_GhO_Lrtj_YVhdrGV2UZC8HCMsnlToKnfl0xCjGZbkhIjK2gdJQoM-HKKz8oV_RfteLJXRg2u8v1uJnjfDAFJhHVfW0F0juPr_DQvZqwnYXOGb"
+            },
+            {
+                "count": 40,
+                "name": "Using the Vue UI to Build",
+                "module_name": "Building and Serving Vue",
+                "duration": "1m 54s",
+                "vid": "https://vid21.pluralsight.com/clips/resolution/2001fe55-1d35-43db-9301-03f90f9d5bde/current/mp4/1280x720.mp4?0RTOmKOG2dA1ttufdwPDZT4JD1xDtuzX-TJN_umeOZrdlgmBK2s9RN2cw7BHO_D08GP6y279QM0vtY0dcEAQl4QdOibuEgXG_Wal7Xn7EAbZmqu37jiiX3Z8gUjfePapYe9-P9FuCGEeuHg7zG0VG_pUzUVToigjYQtYZJDNJJ3Huni5XebNYVr24Rj0"
+            },
+            {
+                "count": 41,
+                "name": "Wrap up and What's Next ",
+                "module_name": "Building and Serving Vue",
+                "duration": "0m 53s",
+                "vid": "https://vid21.pluralsight.com/clips/resolution/c6be0986-cbff-45dc-a76c-4a01b9ba7c65/current/mp4/1280x720.mp4?j5FD2XellQR_b2dumo_3KrwIIz51l6aDGX3tKoMB0utIp4qTpMe3Bal60eCqzNnpRWPGKMpiKjMDVBYyr9h6lYkFJ6JynPvE7RaIvfQawXxSb1WvFxh7YAAw6mktN_DKEKxBiPW01A1V93X8SZ8pLLDL0fAHpmeRTPzCSAas8TBEC5t_oM0I1MvDGfYr"
+            }
+        ],
+        "Running Unit and End to End Tests": [
+            {
+                "count": 42,
+                "name": "Overview of Testing with the Vue CLI",
+                "module_name": "Running Unit and End to End Tests",
+                "duration": "0m 27s",
+                "vid": "https://vid21.pluralsight.com/clips/resolution/19c20e71-ad95-471a-be64-14543a40e994/current/mp4/1280x720.mp4?XP2-71ZoRBsgmUfH-ZCZSaYFjXpy_8edfsKOSK_xMapjaenJFmuHQNOc_OSJkwuwNsZoNb-UDiMukUT9GTB_4YAZsel9xORZv1wwvj_j93hxn7RnX1iLTm68NWES4xk6Xj1VnRUj4Onknvp--I4ehUEovzWtcE_j-Bv4ALa1R7ICnEYPH-bbQxOTaCwd"
+            },
+            {
+                "count": 43,
+                "name": "How to Set up and Run Unit Tests with Mocha or Jest",
+                "module_name": "Running Unit and End to End Tests",
+                "duration": "2m 14s",
+                "vid": "https://vid21.pluralsight.com/clips/resolution/116d1323-9ee8-463e-843f-d6e40f4d37ad/current/mp4/1280x720.mp4?0q2BEIT6TlNGmS4d__b72QkzyN5s4NAbtrHw0Zers1P41bDNkNSVZf9UTDvAsQH-eWma9NffkI-BLimeJCyaqv1r7SZimSlQlgHWxkry7hJBiU66GHFKyt0nQAJY-gIxJ38r0-xRTmQWzgdYn_Bo4I0Y3_TQM8biASnlM3HVD58wvlqps7PC4tpkuqB9"
+            },
+            {
+                "count": 44,
+                "name": "Learning How to Run Unit Tests with the Vue CLI",
+                "module_name": "Running Unit and End to End Tests",
+                "duration": "5m 7s",
+                "vid": "https://vid21.pluralsight.com/clips/resolution/67942eaa-7cd4-476d-9f07-2b796601845b/current/mp4/1280x720.mp4?vWIJ2DQmc3HTZSJs0crQ5x_v_IzB4ZVy-u-Nx7FiVcCIKuk6deJw3aeFJZTdJAmnSYq2V3q2tnLjZT_32jcjw2Env8OoNTDrmkig0vOyQQnP9zdnO6mHnJ2V8mOgvfNaPobj4LzIk_NpZ9hIwyAwx96a12FOvhFGguFGKG-lw8TxzSOsWzvHLBb67iRr"
+            },
+            {
+                "count": 45,
+                "name": "Watching and Refactoring Unit Tests",
+                "module_name": "Running Unit and End to End Tests",
+                "duration": "3m 16s",
+                "vid": "https://vid21.pluralsight.com/clips/resolution/d5544bdc-0fa6-4dc4-a7c9-578292bea4fd/current/mp4/1280x720.mp4?KCR0_ERSu_zQqq-dBsjpoHLlDOe5s5RuDm5GMO0jzWeM9s-ammkwEdJxP5BQ64d8qL013pMxWnyJMqtYMbdtp_ar_YxGPgBRefffdB0eje-YAhKyb6zVajKNrBQvoE4dYkBybcx5MILSXNyPXojiYTLheA58u51hkWRaskUP8SrxQTYHLYx7GnyIDQaI"
+            },
+            {
+                "count": 46,
+                "name": "How to Set up End-to-end Tests with Cypress or Nightwatch",
+                "module_name": "Running Unit and End to End Tests",
+                "duration": "1m 17s",
+                "vid": "https://vid5.pluralsight.com/expiretime=1554320267/6c46a4b27f5fab8ba099ca0faa04ee18/clips/resolution/8e1cf349-d269-4cc1-b7ea-9f1e2c95e906/current/mp4/1280x720.mp4"
+            },
+            {
+                "count": 47,
+                "name": "Learning How to Run End-to-end Tests with the Vue CLI",
+                "module_name": "Running Unit and End to End Tests",
+                "duration": "4m 10s",
+                "vid": "https://vid5.pluralsight.com/expiretime=1554320272/3d6025224723b4ebbe7bea73b0efccaf/clips/resolution/4537faef-8d09-48fe-9935-9f7fe0643a97/current/mp4/1280x720.mp4"
+            },
+            {
+                "count": 48,
+                "name": "What's Next ",
+                "module_name": "Running Unit and End to End Tests",
+                "duration": "0m 48s",
+                "vid": "https://vid5.pluralsight.com/expiretime=1554320277/ab89dcafc6823bacfbc3ed4dad746394/clips/resolution/912c852c-18b2-42b4-b5f1-94b8dde574d2/current/mp4/1280x720.mp4"
+            }
+        ],
+        "Adding Packages and Plugins to Your Vue App with the Vue CLI": [
+            {
+                "count": 49,
+                "name": "Overview of Plugins for the Vue CLI",
+                "module_name": "Adding Packages and Plugins to Your Vue App with the Vue CLI",
+                "duration": "0m 33s",
+                "vid": "https://vid21.pluralsight.com/clips/resolution/fbeead8b-b356-492d-9ce3-bb2b158057f6/current/mp4/1280x720.mp4?aASR3SM1LwLsmsRJXo-htFX5H60MZ2SoRD3OMQiBNqFHxkZ0lROl1S9gXckO5iFSt8qS8PPkBdw51TWPVzx5MUx3-JwEdCwW_aCyjAxhUVEoU-y1qGS3rgbR5ZUgs-NZBjmq_28j2OHsXZgvdyNPgW8Gt1lZbDEewZf1r2PucbI4N08DaMo3rBcjt77S"
+            },
+            {
+                "count": 50,
+                "name": "Understanding Vue CLI Plugins",
+                "module_name": "Adding Packages and Plugins to Your Vue App with the Vue CLI",
+                "duration": "3m 11s",
+                "vid": "https://vid5.pluralsight.com/expiretime=1554320287/95c4dfc1e0d65f23ce6bd1eca8fd0492/clips/resolution/8880c9c7-8787-4bc6-af91-b334080f5273/current/mp4/1280x720.mp4"
+            },
+            {
+                "count": 51,
+                "name": "Adding a Plugin Via the Vue CLI",
+                "module_name": "Adding Packages and Plugins to Your Vue App with the Vue CLI",
+                "duration": "5m 8s",
+                "vid": "https://vid5.pluralsight.com/expiretime=1554320292/c29287a0a0d0e547de194b648d698090/clips/resolution/1be84ee7-43ac-4d08-abe1-7206080e56a4/current/mp4/1280x720.mp4"
+            },
+            {
+                "count": 52,
+                "name": "Invoking a Plugin Via the Vue CLI",
+                "module_name": "Adding Packages and Plugins to Your Vue App with the Vue CLI",
+                "duration": "2m 10s",
+                "vid": "https://vid5.pluralsight.com/expiretime=1554320297/2fc542d2a7daceacfdc14e04180cddaa/clips/resolution/03744037-3593-483c-9ee0-aea06fb0f531/current/mp4/1280x720.mp4"
+            },
+            {
+                "count": 53,
+                "name": "Using the Vue CLI UI for Plugins",
+                "module_name": "Adding Packages and Plugins to Your Vue App with the Vue CLI",
+                "duration": "2m 39s",
+                "vid": "https://vid21.pluralsight.com/clips/resolution/301ae440-24ef-4108-a5f7-4fa5878807d9/current/mp4/1280x720.mp4?XinM2tSNBSL3wrN8ZeiBN_s2ivR6nbGYs6uu_X-iSzhZdfAuWrSXjaHHAlBaHREKDk3jOwXkOBGWunWNmTJl2fZGTNUfthmp6ViVBirqfk_cY5Rd_vrbyn1Kz2JgWT-uypjJKngnaLhiv3dPqEUm7oWHLqHctXoxtusAebGn1yIjWoDur1oeQNzaF-au"
+            },
+            {
+                "count": 54,
+                "name": "Wrap up and What's Next ",
+                "module_name": "Adding Packages and Plugins to Your Vue App with the Vue CLI",
+                "duration": "0m 51s",
+                "vid": "https://vid21.pluralsight.com/clips/resolution/94b2391a-8257-44bd-bbb7-5a2678587897/current/mp4/1280x720.mp4?p2wgDYNUqwG6xaCsUjwaHNXsnDMgVbPkpbT1TdxT0AHtZ7ThlRDmc-Zw-ZtPHkyrbzG9nOYYMOdw-yNXhkoW9-3kEA9vRA6mJ2K4JXu7dbUxqms6wYzf-7Om5EmJ4hkXQ69viCgkbMY84t8O2W5YCC4XHfUfu4lMjYMPEp1_Pr9BtyYsLCz_Nwb0iF7U"
+            }
+        ],
+        "Creating Vue Apps with Vue CLI's UI": [
+            {
+                "count": 55,
+                "name": "Overview of the Vue CLI UI",
+                "module_name": "Creating Vue Apps with Vue CLI's UI",
+                "duration": "0m 42s",
+                "vid": "https://vid21.pluralsight.com/clips/resolution/372a1da9-d4eb-488f-b4ef-4d77255f94e0/current/mp4/1280x720.mp4?Oc-ILas38Me-j4Hn9SiqzPXGtAQNhWypXtIUNYg63f_S9uGVELvsO9MI5fZssKxegK17qB7a_Is5yXYuRxUwq5DP3CDNTfuIu49yfYF7DuByqLOd_iZYJo4J7X1kE2OVwzVPYHG06Yf6hQthz_eKAMDnTUaUuoC5U8hR_uVo0_xzrlsZ0PuyuU4tQ2Sh"
+            },
+            {
+                "count": 56,
+                "name": "Touring the Vue CLI UI",
+                "module_name": "Creating Vue Apps with Vue CLI's UI",
+                "duration": "2m 26s",
+                "vid": "https://vid5.pluralsight.com/expiretime=1554320317/690a71b3c311698678e1379cb9f9da43/clips/resolution/deee9c33-c9f2-47d2-93f6-6415d7cf68de/current/mp4/1280x720.mp4"
+            },
+            {
+                "count": 57,
+                "name": "Creating New Projects with the Vue CLI UI",
+                "module_name": "Creating Vue Apps with Vue CLI's UI",
+                "duration": "1m 3s",
+                "vid": "https://vid21.pluralsight.com/clips/resolution/fc4c323b-f569-4093-90d5-fc650cfc55d1/current/mp4/1280x720.mp4?bsnYpuP5tNmkWy-LYXezK244Lb9RoCK2LqTTU7tsZ0f-Gzx8bPiUpWVrdI0zhPH9iJZsC-kDA-dOBzsFHTAKfyVrjFd7ADptBuhEpzV7CyaDKrMpWfuVPGZZ2dplSf3quxO-CGoAa-T0-zEVGYhubm-8mSaizLKhJ4GWA9bcuX9QQwDsxeSfnGrqEz1z"
+            },
+            {
+                "count": 58,
+                "name": "Managing Plugins and Dependencies with the Vue CLI UI",
+                "module_name": "Creating Vue Apps with Vue CLI's UI",
+                "duration": "3m 11s",
+                "vid": "https://vid5.pluralsight.com/expiretime=1554320328/038b28dccada694e2688ca829d3048a1/clips/resolution/04c222f5-6510-4019-ab6d-37cb95e231bd/current/mp4/1280x720.mp4"
+            },
+            {
+                "count": 59,
+                "name": "Configuring Projects with the Vue CLI UI",
+                "module_name": "Creating Vue Apps with Vue CLI's UI",
+                "duration": "1m 44s",
+                "vid": "https://vid21.pluralsight.com/clips/resolution/3baa4486-7882-4b4e-81ce-5e131aa4425f/current/mp4/1280x720.mp4?06Jeab07GJq2x4xWHpYCW0AbZFJ_l9gaHwWGmuBGVXWBZ42G331zUcHFHCvNQpyTqnVUdXxTkKpP7p3P0eknCXFI99_eH5M19xe0Ff7lXDpBgAr8OtXMPL4oaEkaB7qd0qMbXHQrrZblpUiiftQeh8sVq8Zi7muc9-QUllSCPgVcR2IS508iebi3kcjh"
+            },
+            {
+                "count": 60,
+                "name": "Running Tasks with the Vue CLI UI",
+                "module_name": "Creating Vue Apps with Vue CLI's UI",
+                "duration": "2m 53s",
+                "vid": "https://vid5.pluralsight.com/expiretime=1554320338/767bbc5caf76fa631fbc05b542471d13/clips/resolution/5d083b7b-5218-49ab-a68b-8307dd0428b7/current/mp4/1280x720.mp4"
+            },
+            {
+                "count": 61,
+                "name": "Summary of the Vue CLI UI",
+                "module_name": "Creating Vue Apps with Vue CLI's UI",
+                "duration": "1m 7s",
+                "vid": "https://vid21.pluralsight.com/clips/resolution/b3e05672-a6df-4205-8b01-96c96ec45cc6/current/mp4/1280x720.mp4?wUaISpNrxt2cWgPyEl600cTlSXUCyCjxU29T8mPre6Gt57ZWvqqD4bailzU4qsSViFu0HnMgV6Duys_LTqwBNyo-AhQbJ0lfNOxhTdkx6CD0z83K8-eQBmU9cAcXmx5kqdYdxQhzZPScpzVz9QjVlGzUMwe7q1fMyrWVx6WRQzk7a7kVRZtFUq4Wy8aQ"
+            }
+        ]
+    }
+}
